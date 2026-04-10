@@ -1,6 +1,6 @@
-# Shamir's Secret Sharing — Demo
+# Point To and From Multiple Points Mapping — Demo
 
-A from-scratch Python implementation of **Shamir's Secret Sharing** (SSS) with two visual demos showing how polynomial interpolation over a finite field works.
+A from-scratch Python implementation of Point To and From Multiple Points Mapping using **Shamir's Secret Sharing** (SSS) with 2 visual demos showing how polynomial interpolation over a finite field works.
 
 No external crypto libraries — just Python + NumPy + Matplotlib.
 
